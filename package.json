@@ -59,7 +59,7 @@
     "function-bind": "^1.0.2",
     "html-loader": "^0.5.1",
     "html-webpack-plugin": "^2.8.1",
-    "i18next": "^8.4.0",
+    "i18next": "^19.6.0",
     "i18next-conv": "^3.0.3",
     "i18next-xhr-backend": "^1.4.1",
     "intersection-observer": "^0.7.0",
